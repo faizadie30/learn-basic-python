@@ -26,3 +26,12 @@ pyenv --version
 python
 ```
 9. done
+
+# Install with Windows or Linux
+looking this in: https://belajarpython.com/tutorial/menjalankan-python/
+
+# How to running
+1. run command, in bellow:
+```bash
+python your-file-name.py
+```
