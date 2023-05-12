@@ -16,7 +16,7 @@ print("this string type data")
 #type data Complex
 print(5j)
 
-#type data array or list
+#type data list
 print(['hallo',"world"])
 print([1,2,3,4,5])
 
