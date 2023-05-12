@@ -22,11 +22,11 @@ print([1,2,3,4,5])
 
 #type data Tuple
 print((1,2,3,4,5))
-print(("satu", "dua", "tiga"))
+print(("one", "two", "three"))
 
-#tipe data Dictionary
-print({"nama":"Budi", 'umur':20})
-#tipe data Dictionary dimasukan ke dalam variabel biodata
-biodata = {"nama":"Andi", 'umur':21} #proses inisialisasi variabel biodata
-print(biodata) #proses pencetakan variabel biodata yang berisi tipe data Dictionary
-print(type(biodata)) #fungsi untuk mengecek jenis tipe data. akan tampil <class 'dict'> yang berarti dict adalah tipe data dictionary
+#type data Dictionary
+print({"name":"Budi", 'age':20})
+#type data dictionary tupple insert on variabel
+biodata = {"name":"Andi", 'age':21} #process initialization data to variable
+print(biodata) #process print variabel biodata which containt type data Dictionary
+print(type(biodata)) #function for checking category type data. and print <class 'dict'> which containt dict type data directionary
