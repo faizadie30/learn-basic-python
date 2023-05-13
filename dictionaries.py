@@ -36,3 +36,28 @@ print("result change all value:",thisCarBrand)
 
 thisCarBrand["brandName"] = "Ford" #change 1 value only from key
 print(thisCarBrand)
+
+# loop dictionaries
+for value in thisCarBrand.values():
+    print("loop val:",value)
+    
+# nested dictionaries
+child1 = {
+  "name" : "Emil",
+  "year" : 2004
+}
+child2 = {
+  "name" : "Tobias",
+  "year" : 2007
+}
+child3 = {
+  "name" : "Linus",
+  "year" : 2011
+}
+
+myfamily = {
+  "child1" : child1,
+  "child2" : child2,
+  "child3" : child3
+}
+print(myfamily)
