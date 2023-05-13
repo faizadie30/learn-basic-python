@@ -21,9 +21,9 @@ while n < 15:
 # looping triangle logic with alphabet
 n=5; i=0; numAlpha = 63
 while(i <= n):
-  numAlpha +=1 
-  #from right to left
-  print(" " * (n - i) + chr(numAlpha) * i)
-# from left to right
-#   print(" "+chr(numAlpha) * i)
-  i+=1
+    numAlpha +=1 
+    #from right to left
+    print(" " * (n - i) + chr(numAlpha) * i)
+    # from left to right
+    #   print(" "+chr(numAlpha) * i)
+    i+=1
