@@ -35,3 +35,6 @@ looking this in: https://belajarpython.com/tutorial/menjalankan-python/
 ```bash
 python your-file-name.py
 ```
+
+# Documentation Best Practice Python
+https://geo-python.github.io/site/notebooks/L1/gcp-1-variable-naming.html
