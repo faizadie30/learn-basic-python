@@ -27,7 +27,7 @@ python
 ```
 9. done
 
-# Install with Windows or Linux
+# Install on Windows or Linux
 looking this in: https://belajarpython.com/tutorial/menjalankan-python/
 
 # How to running
