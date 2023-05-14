@@ -1,0 +1,1 @@
+Example use init and date
